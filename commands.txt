@@ -1,0 +1,4 @@
+env\Scripts\activate.bat 
+
+
+python -m venv env
